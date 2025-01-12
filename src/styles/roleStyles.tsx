@@ -9,9 +9,9 @@ export const roleStyles = StyleSheet.create({
     },
     logo: {
         resizeMode: 'contain',
-        height: 50,
-        marginTop: 120,
-        marginBottom: 40
+        height: 100,
+        marginTop: 50,
+        marginBottom: 20
     },
     card: {
         width: '90%',
